@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/akash/Workspaces/personal/prisma/university-management-core-service-starter/logs/winston/errors/.4921a38bffac0890a1556cf9b383fa6c4b5ef736-audit.json",
+    "files": [
+        {
+            "date": 1698345566389,
+            "name": "/home/akash/Workspaces/personal/prisma/university-management-core-service-starter/logs/winston/errors/phu-2023-27-10-00-error.log",
+            "hash": "557b19c431c28708b82ca8ef2c37206c588a835004a6691cc0d1c2fe476ddf3c"
+        }
+    ],
+    "hashType": "sha256"
+}
